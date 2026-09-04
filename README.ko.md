@@ -129,7 +129,7 @@ Next.js 15 · React · TypeScript · Tailwind CSS ·
 
 - 웹사이트 —— [www.fatemaster.ai](https://www.fatemaster.ai/ko)
 - X —— [@Fatemaster38208](https://x.com/Fatemaster38208)
-- 문의 —— hi@pomodiary.com
+- 문의 —— hi@fatemaster.ai
 
 ---
 
