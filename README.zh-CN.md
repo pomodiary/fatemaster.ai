@@ -129,7 +129,7 @@ Next.js 15 · React · TypeScript · Tailwind CSS ·
 
 - 网站 —— [www.fatemaster.ai](https://www.fatemaster.ai/zh)
 - X —— [@Fatemaster73685](https://x.com/Fatemaster73685)
-- 联系 —— hi@pomodiary.com
+- 联系 —— hi@fatemaster.ai
 
 ---
 
