@@ -150,7 +150,7 @@ get fixed fast.
 
 - Website — [www.fatemaster.ai](https://www.fatemaster.ai)
 - X — [@Fatemaster38208](https://x.com/Fatemaster38208)
-- Contact — hi@pomodiary.com
+- Contact — hi@fatemaster.ai
 
 ---
 
